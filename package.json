@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gsa-auctions",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "GSA Auctions API MCP — US federal government surplus auctions (keyed).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-7d80613e25701e5ac200722f5243fc40fc5649e08c54e78401c6122da1d9b3c7",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-5199508720ccb5fcb138740598cc13d8512d7b78c71a3724d47bc054fae79b32",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
