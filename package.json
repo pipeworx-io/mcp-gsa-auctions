@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gsa-auctions",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "GSA Auctions API MCP — US federal government surplus auctions (keyed).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "gsa-auctions",
     "gatewaySlug": "gsa-auctions",
-    "sourceHash": "v1-4392298f6a989a931f9d980a8047cece10d78277ae9947242fb0ace82c467939",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-4df4612216ec6d6905556441c5c47ee2ccc79db43551fc6b293f68e1b89114f7",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
